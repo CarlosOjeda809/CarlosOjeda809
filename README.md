@@ -8,10 +8,10 @@
 
 ## Social:
 <a href="https://github.com/CarlosOjeda809"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" height="25"></a>
-<a href="https://instagram.com/_ojeda_055?igsh=NGNnZWNwbzh5bGJx"><img src="" height="25"></a>
+<a href="https://instagram.com/_ojeda_055?igsh=NGNnZWNwbzh5bGJx"><img src="https://static.vecteezy.com/system/resources/previews/014/414/683/non_2x/instagram-black-logo-on-transparent-background-free-vector.jpg" height="25"></a>
 
 ## Languages:
-<code><img width="60" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png?raw=true"></code>
+<code><img width="60" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png"></code>
 <code><img width="60" src="https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg"></code>
 <code><img width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s"></code>
 <code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
