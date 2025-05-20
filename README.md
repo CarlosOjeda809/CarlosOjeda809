@@ -55,4 +55,4 @@
 
 ## Projects
 
-I worked in a lot of projects whose demo can be seen in my personal Portfolio: [ojedacarlos.com](https://ojedacarlos.com)
+I have worked in a lot of projects whose demo can be seen in my personal Portfolio: [ojedacarlos.com](https://ojedacarlos.com)
