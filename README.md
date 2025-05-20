@@ -9,6 +9,11 @@
 ## Social:
 <a href="https://github.com/CarlosOjeda809"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" height="25"></a>
 <a href="https://instagram.com/_ojeda_055?igsh=NGNnZWNwbzh5bGJx"><img src="https://static.vecteezy.com/system/resources/previews/014/414/683/non_2x/instagram-black-logo-on-transparent-background-free-vector.jpg" height="25"></a>
+<a href="https://x.com/PlayerCot?t=M3DM2TyerX-O0tCOwAaRpQ&s=09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/1024px-Twitter_X.png" height="25"></a>
+
+## Personal contact:
+
+carlosojedatejerina@gmail.com
 
 ## Languages:
 <code><img width="60" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png"></code>
